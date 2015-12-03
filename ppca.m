@@ -1,6 +1,7 @@
 function ppca(T)
 % A script that performs PPCA
-
+%
+% Tonatiuh Pena-Centeno
 
 % E-step
 
